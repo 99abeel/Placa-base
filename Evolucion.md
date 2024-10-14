@@ -14,4 +14,4 @@ La placa base ha evolucionado significativamente desde sus inicios en los años 
 | ![Descripción de la imagen](https://dlcdnwebimgs.asus.com/gain/dd0c089c-f1c5-45e6-9bcb-b64899e44aff/) | Hoy en día, las placas base son extremadamente sofisticadas, con capacidades para overclocking, múltiples ranuras para memoria RAM y almacenamiento M.2, además de una amplia gama de opciones de conectividad como Wi-Fi y Bluetooth. Además, se han vuelto más eficientes energéticamente y adaptadas a las necesidades de los videojuegos e informatica de alto rendimiento. |
 |------------------------------------------------|-------------------------------------------------------------|
 
-
+[Ir a Formatos de la placa Base](factor-forma.md)
