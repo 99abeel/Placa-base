@@ -1,4 +1,4 @@
-# *Formatos de la Placa Base* #
+# *FORMATOS DE LA PLACA BASE* #
 
 ## ATX ##
 Es el formato más común para ordenadores de escritorio. Ofrece muchas ranuras de expansión (para tarjetas gráficas, sonido, etc.) y conexiones. Ideal para la mayoría de los usuarios, ya que proporciona un buen equilibrio entre espacio y capacidad de actualización. Mide 305 x 244 mm.
