@@ -9,19 +9,19 @@ Son los conectores donde se insertan los módulos de memoria RAM. Su cantidad y 
 ## Chipset ##
  Es un conjunto de circuitos integrados que gestiona la comunicación entre la CPU, la RAM y otros dispositivos conectados. El chipset determina las capacidades de overclocking, la cantidad de puertos y ranuras de expansión disponibles, así como el soporte para tecnologías como RAID o PCIe.
 
- ## Ranuras de expansión ##
+## Ranuras de expansión ##
  Proporcionan conectividad para tarjetas adicionales, como GPUs, tarjetas de sonido o de red. Las ranuras PCIe (Peripheral Component Interconnect Express) son las más comunes, con diferentes versiones que ofrecen diferentes anchos de banda (x1, x4, x8, x16). 
 
- ## Conectores de almacenamiento ##
+## Conectores de almacenamiento ##
  Interfases donde se conectan dispositivos de almacenamiento. Incluyen puertos SATA (Serial ATA) para discos duros y SSDs, así como conectores M.2 y U.2 para SSDs NVMe, que ofrecen mayores velocidades de transferencia.
 
- ## Conectores de alimentación ##
+## Conectores de alimentación ##
  Puertos destinados a recibir energía de la fuente de alimentación. Comúnmente incluyen un conector principal de 24 pines (ATX) y uno adicional de 4/8 pines para la alimentación del procesador, garantizando un suministro adecuado de energía a todos los componentes.
 
- ## Puertos USB y de entrada/salida (I/O) ##
+## Puertos USB y de entrada/salida (I/O) ##
  Interfaces que permiten la conexión de periféricos externos. Los puertos de I/O, ubicados en la parte trasera de la placa base, pueden incluir USB, HDMI, Ethernet, y conectores de audio, entre otros.
 
- ## Batería CMOS ##
+## Batería CMOS ##
  Batería que alimenta el chip CMOS, el cual almacena la configuración del BIOS y mantiene la hora del sistema cuando el equipo está apagado. Una batería agotada puede provocar la pérdida de configuraciones y la reconfiguración del BIOS.
 
 ## BIOS/UEFI ## 
