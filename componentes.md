@@ -1,4 +1,4 @@
-# *Componentes* #
+# *COMPONENTES* #
 
 ## Zócalo ##
 Es el conector que aloja el procesador (CPU). Cada zócalo es específico para ciertos modelos y generaciones de CPUs, por lo que la compatibilidad es esencial para el funcionamiento adecuado del sistema.
