@@ -18,4 +18,5 @@ Este formato proporciona aún más ranuras y conectores. Ideal para configuracio
 ## FlexATX ##
 Este es un formato más pequeño, diseñado para chasis compactos. Aunque es limitado en términos de expansión, es perfecto para sistemas que requieren poco espacio y un bajo perfil. Mide 229 x 191 mm.
 
+[Ir a componentes](componentes.md)
 
